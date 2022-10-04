@@ -92,7 +92,6 @@ function Students()
         if (levelId)
         {
           let studentsLevelId = await getLevelStudentsId(connStudentLevel);
-          console.log(studentsLevelId);
           for (let j=0 ; j < studentsLevelId.length ; j++)
           {
             if(studentsLevelId[j] == id )
@@ -117,7 +116,7 @@ function Students()
       try{
         let studentLevelContract = conn ;
         const getStudentsLevelId = await studentLevelContract.getLevelStudentsId(levelId);
-        return getStudentsLevelId ;
+        return [...new Set(getStudentsLevelId)] ;
       }catch(err)
       {
         console.log(err)
