@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DecentralizedCoursesBookingSystemFrontAdmin/static/css/main.e844e9a9.css",
-    "main.js": "/DecentralizedCoursesBookingSystemFrontAdmin/static/js/main.cc64ab5a.js",
+    "main.js": "/DecentralizedCoursesBookingSystemFrontAdmin/static/js/main.f2b21698.js",
     "static/js/787.608cd961.chunk.js": "/DecentralizedCoursesBookingSystemFrontAdmin/static/js/787.608cd961.chunk.js",
     "static/media/welcome-admin.jpg": "/DecentralizedCoursesBookingSystemFrontAdmin/static/media/welcome-admin.63f3dda3eab35f8fcd02.jpg",
     "static/media/welcome.jpg": "/DecentralizedCoursesBookingSystemFrontAdmin/static/media/welcome.d89d60cf8e7e569c47d9.jpg",
@@ -9,11 +9,11 @@
     "static/media/neon.jpg": "/DecentralizedCoursesBookingSystemFrontAdmin/static/media/neon.76169e1351d5454086f3.jpg",
     "index.html": "/DecentralizedCoursesBookingSystemFrontAdmin/index.html",
     "main.e844e9a9.css.map": "/DecentralizedCoursesBookingSystemFrontAdmin/static/css/main.e844e9a9.css.map",
-    "main.cc64ab5a.js.map": "/DecentralizedCoursesBookingSystemFrontAdmin/static/js/main.cc64ab5a.js.map",
+    "main.f2b21698.js.map": "/DecentralizedCoursesBookingSystemFrontAdmin/static/js/main.f2b21698.js.map",
     "787.608cd961.chunk.js.map": "/DecentralizedCoursesBookingSystemFrontAdmin/static/js/787.608cd961.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e844e9a9.css",
-    "static/js/main.cc64ab5a.js"
+    "static/js/main.f2b21698.js"
   ]
 }
