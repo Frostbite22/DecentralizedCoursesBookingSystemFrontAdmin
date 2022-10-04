@@ -1,4 +1,4 @@
-# Decentralized courses booking system frontend with React 
+# Decentralized courses booking system frontend with React for Admin
 A Decentralized courses booking system built on top of Ethereum blockchain using Hardhat, ethers, reactJS as technologies and many third party libraries <br>
 The hardhat project related to this frontend [hardhat project](https://github.com/Frostbite22/DecentralizedCoursesBookingSystem)
 
@@ -23,6 +23,10 @@ REACT_APP_ADMIN_CONTRACT_ADDRESS=
 
 In the project directory, you can run:
 
+### `npm i`
+
+install dependencies
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -30,4 +34,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+### `npm run deploy`
+
+Deploy to Github pages
 
