@@ -2,7 +2,7 @@
   "name": "course-booking-system",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://frostbite22.github.io/DecentralizedCoursesBookingSystemFront/",
+  "homepage": "https://frostbite22.github.io/DecentralizedCoursesBookingSystemFrontAdmin/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
